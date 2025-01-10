@@ -1,0 +1,271 @@
+2025-01-08 21:13:55.744627: Preliminaries complete. Initiating ETL process
+2025-01-08 21:14:48.753399: Preliminaries complete. Initiating ETL process
+2025-01-08 21:15:22.177764: Preliminaries complete. Initiating ETL process
+2025-01-08 21:15:46.290958: Preliminaries complete. Initiating ETL process
+2025-01-08 21:16:10.004730: Preliminaries complete. Initiating ETL process
+2025-01-08 21:16:13.206272: Data extraction completed! Now starting Transformation process
+2025-01-08 21:16:13.239177: Data Transformation completed now moving to Loading process
+2025-01-08 21:16:13.245129: Data Saved to cdv path :) 
+2025-01-08 21:18:25.149877: Preliminaries complete. Initiating ETL process
+2025-01-08 21:18:27.926432: Data extraction completed! Now starting Transformation process
+2025-01-08 21:18:27.936429: Data Transformation completed now moving to Loading process
+2025-01-08 21:18:27.936429: Data Saved to cdv path :) 
+2025-01-08 21:22:46.932656: Preliminaries complete. Initiating ETL process
+2025-01-08 21:22:49.449105: Data extraction completed! Now starting Transformation process
+2025-01-08 21:22:49.458098: Data Transformation completed now moving to Loading process
+2025-01-08 21:22:49.461096: Data Saved to cdv path :) 
+2025-01-08 21:23:32.737232: Preliminaries complete. Initiating ETL process
+2025-01-08 21:23:35.407010: Data extraction completed! Now starting Transformation process
+2025-01-08 21:23:35.416003: Data Transformation completed now moving to Loading process
+2025-01-08 21:23:35.418096: Data Saved to cdv path :) 
+2025-01-08 21:23:35.428755: Data loaded to database as a table
+2025-01-08 21:25:03.846721: Preliminaries complete. Initiating ETL process
+2025-01-08 21:25:06.169848: Data extraction completed! Now starting Transformation process
+2025-01-08 21:25:06.179849: Data Transformation completed now moving to Loading process
+2025-01-08 21:25:06.179849: Data Saved to cdv path :) 
+2025-01-08 21:25:06.189840: Data loaded to database as a table
+2025-01-08 21:30:56.058593: Preliminaries complete. Initiating ETL process
+2025-01-08 21:30:59.992929: Data extraction completed! Now starting Transformation process
+2025-01-08 21:30:59.995961: Data Transformation completed now moving to Loading process
+2025-01-08 21:31:00.005961: Data Saved to cdv path :) 
+2025-01-08 21:31:00.025957: Data loaded to database as a table
+2025-01-08 21:33:00.290004: Preliminaries complete. Initiating ETL process
+2025-01-08 21:33:02.251137: Data extraction completed! Now starting Transformation process
+2025-01-08 21:33:02.261136: Data Transformation completed now moving to Loading process
+2025-01-08 21:33:02.271136: Data Saved to cdv path :) 
+2025-01-08 21:33:02.281134: Data loaded to database as a table
+2025-01-08 21:33:32.161077: Preliminaries complete. Initiating ETL process
+2025-01-08 21:33:34.948872: Data extraction completed! Now starting Transformation process
+2025-01-08 21:33:34.968872: Data Transformation completed now moving to Loading process
+2025-01-08 21:33:34.968872: Data Saved to cdv path :) 
+2025-01-08 21:33:34.988869: Data loaded to database as a table
+2025-01-08 21:34:57.903293: Preliminaries complete. Initiating ETL process
+2025-01-08 21:35:00.515915: Data extraction completed! Now starting Transformation process
+2025-01-08 21:35:00.525916: Data Transformation completed now moving to Loading process
+2025-01-08 21:35:00.525916: Data Saved to cdv path :) 
+2025-01-08 21:35:00.545914: Data loaded to database as a table
+2025-01-08 21:37:44.292824: Preliminaries complete. Initiating ETL process
+2025-01-08 21:37:46.675869: Data extraction completed! Now starting Transformation process
+2025-01-08 21:37:46.685973: Data Transformation completed now moving to Loading process
+2025-01-08 21:37:46.685973: Data Saved to cdv path :) 
+2025-01-08 21:37:46.834309: Data loaded to database as a table
+2025-01-08 21:37:46.834309: Process completed
+2025-01-08 21:37:46.834309: Process completed
+2025-01-08 21:37:46.844374: Process completed
+2025-01-08 21:38:54.771845: Preliminaries complete. Initiating ETL process
+2025-01-08 21:38:58.000612: Data extraction completed! Now starting Transformation process
+2025-01-08 21:38:58.005609: Data Transformation completed now moving to Loading process
+2025-01-08 21:38:58.008610: Data Saved to cdv path :) 
+2025-01-08 21:38:58.026598: Data loaded to database as a table
+2025-01-08 21:38:58.027676: Process completed
+2025-01-08 21:38:58.027676: Process completed
+2025-01-08 21:38:58.027676: Process completed
+2025-01-08 21:39:54.637269: Preliminaries complete. Initiating ETL process
+2025-01-08 21:39:59.286174: Data extraction completed! Now starting Transformation process
+2025-01-08 21:39:59.293269: Data Transformation completed now moving to Loading process
+2025-01-08 21:39:59.296267: Data Saved to cdv path :) 
+2025-01-08 21:39:59.308297: Data loaded to database as a table
+2025-01-08 21:40:21.595482: Preliminaries complete. Initiating ETL process
+2025-01-08 21:40:24.623009: Data extraction completed! Now starting Transformation process
+2025-01-08 21:40:24.627006: Data Transformation completed now moving to Loading process
+2025-01-08 21:40:24.629005: Data Saved to cdv path :) 
+2025-01-08 21:40:24.636054: Data loaded to database as a table
+2025-01-08 21:40:24.646052: Process completed
+2025-01-08 21:40:24.646052: Process completed
+2025-01-08 21:40:24.647584: Process completed
+2025-01-08 21:40:55.203665: Preliminaries complete. Initiating ETL process
+2025-01-08 21:40:58.031596: Data extraction completed! Now starting Transformation process
+2025-01-08 21:40:58.031596: Data Transformation completed now moving to Loading process
+2025-01-08 21:40:58.041596: Data Saved to cdv path :) 
+2025-01-08 21:40:58.049603: Data loaded to database as a table
+2025-01-08 21:41:28.284695: Preliminaries complete. Initiating ETL process
+2025-01-08 21:41:30.686549: Data extraction completed! Now starting Transformation process
+2025-01-08 21:41:30.686549: Data Transformation completed now moving to Loading process
+2025-01-08 21:41:30.686549: Data Saved to cdv path :) 
+2025-01-08 21:41:30.706549: Data loaded to database as a table
+2025-01-08 21:41:40.328869: Preliminaries complete. Initiating ETL process
+2025-01-08 21:41:44.566026: Data extraction completed! Now starting Transformation process
+2025-01-08 21:41:44.568133: Data Transformation completed now moving to Loading process
+2025-01-08 21:41:44.574169: Data Saved to cdv path :) 
+2025-01-08 21:41:44.589956: Data loaded to database as a table
+2025-01-08 21:41:44.590958: Process completed
+2025-01-08 21:41:44.591959: Process completed
+2025-01-08 21:41:44.592958: Process completed
+2025-01-08 21:43:39.339508: Preliminaries complete. Initiating ETL process
+2025-01-08 21:43:42.799579: Data extraction completed! Now starting Transformation process
+2025-01-08 21:43:42.806580: Data Transformation completed now moving to Loading process
+2025-01-08 21:43:42.809659: Data Saved to cdv path :) 
+2025-01-08 21:43:42.833685: Data loaded to database as a table
+2025-01-08 21:43:42.833685: Process completed
+2025-01-08 21:43:42.833685: Process completed
+2025-01-08 21:43:42.833685: Process completed
+2025-01-08 21:43:56.379549: Preliminaries complete. Initiating ETL process
+2025-01-08 21:44:03.849913: Data extraction completed! Now starting Transformation process
+2025-01-08 21:44:03.859913: Data Transformation completed now moving to Loading process
+2025-01-08 21:44:03.859913: Data Saved to cdv path :) 
+2025-01-08 21:44:03.876917: Data loaded to database as a table
+2025-01-08 21:44:03.876917: Process completed
+2025-01-08 21:44:03.876917: Process completed
+2025-01-08 21:44:03.876917: Process completed
+2025-01-08 21:44:16.294800: Preliminaries complete. Initiating ETL process
+2025-01-08 21:44:19.774855: Data extraction completed! Now starting Transformation process
+2025-01-08 21:44:19.774855: Data Transformation completed now moving to Loading process
+2025-01-08 21:44:19.781879: Data Saved to cdv path :) 
+2025-01-08 21:44:19.796747: Data loaded to database as a table
+2025-01-08 21:45:30.032529: Preliminaries complete. Initiating ETL process
+2025-01-08 21:45:31.970496: Data extraction completed! Now starting Transformation process
+2025-01-08 21:45:31.970496: Data Transformation completed now moving to Loading process
+2025-01-08 21:45:31.980496: Data Saved to cdv path :) 
+2025-01-08 21:45:31.990501: Data loaded to database as a table
+2025-01-08 21:45:37.104764: Preliminaries complete. Initiating ETL process
+2025-01-08 21:45:39.094741: Data extraction completed! Now starting Transformation process
+2025-01-08 21:45:39.099820: Data Transformation completed now moving to Loading process
+2025-01-08 21:45:39.101909: Data Saved to cdv path :) 
+2025-01-08 21:45:39.119354: Data loaded to database as a table
+2025-01-10 15:03:35.793757: Preliminaries complete. Initiating ETL process
+2025-01-10 15:03:38.228419: Data extraction completed! Now starting Transformation process
+2025-01-10 15:03:38.253366: Data Transformation completed now moving to Loading process
+2025-01-10 15:03:38.255365: Data Saved to cdv path :) 
+2025-01-10 15:03:38.274045: Data loaded to database as a table
+2025-01-10 15:06:11.049750: Preliminaries complete. Initiating ETL process
+2025-01-10 15:06:12.197436: Data extraction completed! Now starting Transformation process
+2025-01-10 15:06:12.197436: Data Transformation completed now moving to Loading process
+2025-01-10 15:06:12.197436: Data Saved to cdv path :) 
+2025-01-10 15:06:12.217435: Data loaded to database as a table
+2025-01-10 15:06:12.217435: Process completed
+2025-01-10 15:06:12.217435: Process completed
+2025-01-10 15:06:12.217435: Process completed
+2025-01-10 15:06:53.539405: Preliminaries complete. Initiating ETL process
+2025-01-10 15:06:55.116075: Data extraction completed! Now starting Transformation process
+2025-01-10 15:06:55.126076: Data Transformation completed now moving to Loading process
+2025-01-10 15:06:55.126076: Data Saved to cdv path :) 
+2025-01-10 15:06:55.146070: Data loaded to database as a table
+2025-01-10 15:06:55.146070: Process completed
+2025-01-10 15:06:55.146070: Process completed
+2025-01-10 15:06:55.146070: Process completed
+2025-01-10 15:11:10.125543: Preliminaries complete. Initiating ETL process
+2025-01-10 15:11:11.882610: Data extraction completed! Now starting Transformation process
+2025-01-10 15:11:11.882610: Data Transformation completed now moving to Loading process
+2025-01-10 15:11:11.882610: Data Saved to cdv path :) 
+2025-01-10 15:11:11.902607: Data loaded to database as a table
+2025-01-10 15:11:11.902607: Process completed
+2025-01-10 15:24:49.044062: Preliminaries complete. Initiating ETL process
+2025-01-10 15:24:53.381761: Data extraction completed! Now starting Transformation process
+2025-01-10 15:24:53.381761: Data Transformation completed now moving to Loading process
+2025-01-10 15:24:53.381761: Error encountered: 'NoneType' object has no attribute 'to_csv'
+2025-01-10 15:26:54.375728: Preliminaries complete. Initiating ETL process
+2025-01-10 15:26:55.512619: Data extraction completed! Now starting Transformation process
+2025-01-10 15:26:55.516644: Data Transformation completed now moving to Loading process
+2025-01-10 15:26:55.545672: Data Saved to cdv path :) 
+2025-01-10 15:26:55.555673: Data loaded to database as a table
+2025-01-10 15:26:55.555673: Process completed
+2025-01-10 15:26:55.555673: Process completed
+2025-01-10 15:26:55.565671: Process completed
+2025-01-10 15:28:10.562704: Preliminaries complete. Initiating ETL process
+2025-01-10 15:28:11.862789: Data extraction completed! Now starting Transformation process
+2025-01-10 15:28:11.867787: Data Transformation completed now moving to Loading process
+2025-01-10 15:28:11.871395: Data Saved to cdv path :) 
+2025-01-10 15:28:11.891394: Data loaded to database as a table
+2025-01-10 15:28:11.891394: Process completed
+2025-01-10 15:28:11.891394: Process completed
+2025-01-10 15:28:11.891394: Process completed
+2025-01-10 15:28:34.648068: Preliminaries complete. Initiating ETL process
+2025-01-10 15:28:35.924128: Data extraction completed! Now starting Transformation process
+2025-01-10 15:28:35.928126: Data Transformation completed now moving to Loading process
+2025-01-10 15:28:35.940309: Data Saved to cdv path :) 
+2025-01-10 15:28:35.955057: Data loaded to database as a table
+2025-01-10 15:28:35.956060: Process completed
+2025-01-10 15:28:35.957059: Process completed
+2025-01-10 15:28:41.412440: Preliminaries complete. Initiating ETL process
+2025-01-10 15:28:42.653762: Data extraction completed! Now starting Transformation process
+2025-01-10 15:28:42.658760: Data Transformation completed now moving to Loading process
+2025-01-10 15:28:42.671800: Data Saved to cdv path :) 
+2025-01-10 15:28:42.691264: Data loaded to database as a table
+2025-01-10 15:28:42.692266: Process completed
+2025-01-10 15:28:42.693265: Process completed
+2025-01-10 15:28:42.693601: Process completed
+2025-01-10 15:29:40.013823: Preliminaries complete. Initiating ETL process
+2025-01-10 15:29:41.162438: Data extraction completed! Now starting Transformation process
+2025-01-10 15:29:41.162438: Data Transformation completed now moving to Loading process
+2025-01-10 15:29:41.172437: Data Saved to cdv path :) 
+2025-01-10 15:29:41.190935: Data loaded to database as a table
+2025-01-10 15:29:41.193026: Process completed
+2025-01-10 15:29:41.193842: Process completed
+2025-01-10 15:29:41.193842: Process completed
+2025-01-10 15:29:48.115459: Preliminaries complete. Initiating ETL process
+2025-01-10 15:29:49.404554: Data extraction completed! Now starting Transformation process
+2025-01-10 15:29:49.404554: Data Transformation completed now moving to Loading process
+2025-01-10 15:29:49.414553: Data Saved to cdv path :) 
+2025-01-10 15:29:49.434549: Data loaded to database as a table
+2025-01-10 15:29:49.434549: Process completed
+2025-01-10 15:29:49.434549: Process completed
+2025-01-10 15:29:49.434549: Process completed
+2025-01-10 15:36:28.669285: Preliminaries complete. Initiating ETL process
+2025-01-10 15:36:30.790780: Data extraction completed! Now starting Transformation process
+2025-01-10 15:36:30.800780: Data Transformation completed now moving to Loading process
+2025-01-10 15:36:30.800780: Data Saved to cdv path :) 
+2025-01-10 15:36:30.810779: Data loaded to database as a table
+2025-01-10 15:36:30.810779: Process completed
+2025-01-10 15:36:30.820778: Process completed
+2025-01-10 15:36:30.820778: Process completed
+2025-01-10 15:36:39.595347: Preliminaries complete. Initiating ETL process
+2025-01-10 15:36:40.775525: Data extraction completed! Now starting Transformation process
+2025-01-10 15:36:40.775525: Data Transformation completed now moving to Loading process
+2025-01-10 15:36:40.775525: Data Saved to cdv path :) 
+2025-01-10 15:36:40.795523: Data loaded to database as a table
+2025-01-10 15:36:40.795523: Process completed
+2025-01-10 15:36:40.795523: Process completed
+2025-01-10 15:36:40.795523: Process completed
+2025-01-10 15:37:06.842396: Preliminaries complete. Initiating ETL process
+2025-01-10 15:37:08.210687: Data extraction completed! Now starting Transformation process
+2025-01-10 15:37:08.220843: Data Transformation completed now moving to Loading process
+2025-01-10 15:37:08.240982: Data Saved to cdv path :) 
+2025-01-10 15:37:08.259088: Data loaded to database as a table
+2025-01-10 15:37:08.259088: Process completed
+2025-01-10 15:37:08.261113: Process completed
+2025-01-10 15:37:08.261113: Process completed
+2025-01-10 15:37:13.719547: Preliminaries complete. Initiating ETL process
+2025-01-10 15:37:15.058814: Data extraction completed! Now starting Transformation process
+2025-01-10 15:37:15.063810: Data Transformation completed now moving to Loading process
+2025-01-10 15:37:15.065809: Data Saved to cdv path :) 
+2025-01-10 15:37:15.080472: Data loaded to database as a table
+2025-01-10 15:37:15.080472: Process completed
+2025-01-10 15:37:15.080472: Process completed
+2025-01-10 15:37:15.080472: Process completed
+2025-01-10 15:37:45.750632: Preliminaries complete. Initiating ETL process
+2025-01-10 15:37:47.035339: Data extraction completed! Now starting Transformation process
+2025-01-10 15:37:47.041138: Data Transformation completed now moving to Loading process
+2025-01-10 15:37:47.043137: Data Saved to cdv path :) 
+2025-01-10 15:37:47.057395: Data loaded to database as a table
+2025-01-10 15:37:47.058397: Process completed
+2025-01-10 15:37:47.059396: Process completed
+2025-01-10 15:37:47.060395: Process completed
+2025-01-10 15:44:32.702079: Preliminaries complete. Initiating ETL process
+2025-01-10 15:44:34.447024: Data extraction completed! Now starting Transformation process
+2025-01-10 15:44:34.447024: Data Transformation completed now moving to Loading process
+2025-01-10 15:44:34.447024: Data Saved to cdv path :) 
+2025-01-10 15:44:34.467026: Data loaded to database as a table
+2025-01-10 15:46:13.952133: Preliminaries complete. Initiating ETL process
+2025-01-10 15:46:15.524311: Data extraction completed! Now starting Transformation process
+2025-01-10 15:46:15.524311: Data Transformation completed now moving to Loading process
+2025-01-10 15:46:15.524311: Data Saved to cdv path :) 
+2025-01-10 15:46:15.544306: Data loaded to database as a table
+2025-01-10 15:46:15.544306: Process completed
+2025-01-10 15:46:15.544306: Process completed
+2025-01-10 15:46:15.544306: Process completed
+2025-01-10 15:51:52.756686: Preliminaries complete. Initiating ETL process
+2025-01-10 15:51:54.669903: Data extraction completed! Now starting Transformation process
+2025-01-10 15:51:54.679904: Data Transformation completed now moving to Loading process
+2025-01-10 15:51:54.679904: Data Saved to cdv path :) 
+2025-01-10 15:51:54.699903: Data loaded to database as a table
+2025-01-10 15:51:54.699903: Process completed
+2025-01-10 15:51:54.699903: Process completed
+2025-01-10 15:51:54.699903: Process completed
+2025-01-10 15:52:28.635038: Preliminaries complete. Initiating ETL process
+2025-01-10 15:52:29.816901: Data extraction completed! Now starting Transformation process
+2025-01-10 15:52:29.826902: Data Transformation completed now moving to Loading process
+2025-01-10 15:52:29.826902: Data Saved to cdv path :) 
+2025-01-10 15:52:29.846899: Data loaded to database as a table
+2025-01-10 15:52:29.846899: Process completed
+2025-01-10 15:52:29.846899: Process completed
+2025-01-10 15:52:29.856897: Process completed
