@@ -1,0 +1,41 @@
+2025-01-12 04:45:19.805326: Preliminaries complete. Initiating ETL process
+2025-01-12 04:45:21.900649: Data extraction completed! Now starting Transformation process
+2025-01-12 04:45:21.917598: Error encountered: [Errno 2] No such file or directory: './exchange_rate.csv'
+2025-01-12 04:45:33.894548: Preliminaries complete. Initiating ETL process
+2025-01-12 04:45:35.425290: Data extraction completed! Now starting Transformation process
+2025-01-12 04:45:35.425290: Error encountered: [Errno 2] No such file or directory: './input/exchange_rate.csv'
+2025-01-12 04:46:46.001819: Preliminaries complete. Initiating ETL process
+2025-01-12 04:46:47.645161: Data extraction completed! Now starting Transformation process
+2025-01-12 04:46:47.645161: Error encountered: [Errno 2] No such file or directory: './exchange_rate.csv'
+2025-01-12 04:46:56.847069: Preliminaries complete. Initiating ETL process
+2025-01-12 04:46:58.780342: Data extraction completed! Now starting Transformation process
+2025-01-12 04:46:58.780342: Error encountered: [Errno 2] No such file or directory: './exchange_rate.xls'
+2025-01-12 04:47:10.487698: Preliminaries complete. Initiating ETL process
+2025-01-12 04:47:11.816209: Data extraction completed! Now starting Transformation process
+2025-01-12 04:47:11.848631: Data Transformation completed now moving to Loading process
+2025-01-12 04:47:11.863631: Data Saved to cdv path :) 
+2025-01-12 04:47:11.898271: Data loaded to database as a table
+2025-01-12 04:47:11.898271: Process completed
+2025-01-12 04:47:11.898271: Process completed
+2025-01-12 04:47:11.898271: Process completed
+2025-01-12 05:00:42.414220: Preliminaries complete. Initiating ETL process
+2025-01-12 05:00:44.895849: Data extraction completed! Now starting Transformation process
+2025-01-12 05:00:44.924135: Data Transformation completed now moving to Loading process
+2025-01-12 05:00:44.924135: Data Saved to cdv path :) 
+2025-01-12 05:00:44.940849: Error encountered: name 'plt' is not defined
+2025-01-12 05:01:21.696181: Preliminaries complete. Initiating ETL process
+2025-01-12 05:01:23.549000: Data extraction completed! Now starting Transformation process
+2025-01-12 05:01:23.549000: Data Transformation completed now moving to Loading process
+2025-01-12 05:01:23.561604: Data Saved to cdv path :) 
+2025-01-12 05:01:25.835962: Data loaded to database as a table
+2025-01-12 05:01:25.835962: Process completed
+2025-01-12 05:01:25.842473: Process completed
+2025-01-12 05:01:25.844012: Process completed
+2025-01-12 05:02:08.393536: Preliminaries complete. Initiating ETL process
+2025-01-12 05:02:10.519347: Data extraction completed! Now starting Transformation process
+2025-01-12 05:02:10.523860: Data Transformation completed now moving to Loading process
+2025-01-12 05:02:10.531970: Data Saved to cdv path :) 
+2025-01-12 05:02:10.578195: Data loaded to database as a table
+2025-01-12 05:02:10.578195: Process completed
+2025-01-12 05:02:10.580713: Process completed
+2025-01-12 05:02:10.580713: Process completed
